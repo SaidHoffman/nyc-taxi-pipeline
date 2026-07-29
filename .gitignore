@@ -1,0 +1,7 @@
+.venv/
+data/raw/*
+data/warehouse/*
+!data/raw/.gitkeep
+!data/warehouse/.gitkeep
+__pycache__/
+*.pyc
